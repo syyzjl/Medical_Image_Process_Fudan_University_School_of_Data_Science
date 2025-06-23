@@ -3,6 +3,7 @@
 # description
 project of 2025 Medical_Image_Process_Fudan_University_School_of_Data_Science
 instructor is ZHOU Yuan
+复旦大学大数据学院2025春季医学图像处理
 
 # requirement
 register spect to mri in mni space, using tpm.
